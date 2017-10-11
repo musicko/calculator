@@ -1,4 +1,6 @@
-////
+////수정했습니다.
+//수정한번더함.
+//수정한번더함
 #include <stdio.h>
  
 int add(int, int);
