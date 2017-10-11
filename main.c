@@ -1,4 +1,4 @@
-////
+﻿////
 #include <stdio.h>
  
 int add(int, int);
@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	int number1, number2, result;
 	char operator;
 	
-	printf("Please enter a expression");
+	printf("Please enter a expressionsssssss");
 	scanf("%d %c %d", &number1, &operator, &number2);
 	
 	switch (operator)
